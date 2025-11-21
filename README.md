@@ -170,11 +170,8 @@ I'm a passionate Mobile App & Game Developer specializing in creating engaging, 
 ## Connect With Me
 
 - **LinkedIn**: [Your LinkedIn Profile](link)
-- **Twitter**: [@YourHandle](link)
 - **Portfolio Website**: [yourwebsite.com](link)
 - **Email**: your.email@example.com
-- **Itch.io**: [Your Game Portfolio](link)
-- **App Store**: [Your Developer Profile](link)
 
 ## Let's Collaborate!
 
