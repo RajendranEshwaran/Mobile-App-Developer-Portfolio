@@ -10,6 +10,10 @@ I'm a passionate Mobile App & Game Developer specializing in creating engaging, 
 - **iOS Development**: Swift, SwiftUI, UIKit, Xcode
 - **Android Development**: Kotlin, Java, Jetpack Compose, Android Studio
 - **Cross-Platform**: React Native, Flutter, Unity
+- **AI-ML Assistant Expertice**: Claude, Github Copilot, CoreML, CoreVision
+- **Virtual Reality**: ARKit, VR, XR
+
+
 
 ### Game Development
 - **Game Engines**: Unity, Unreal Engine, Godot
