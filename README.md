@@ -64,15 +64,42 @@ I'm a passionate Mobile App & Game Developer specializing in creating engaging, 
 
 ---
 
-### [Project Name 2]
-**Description**: Brief description of your mobile app or game
-**Tech Stack**: Unity, C#, Photon Networking
-**Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+### ExpansesTracker
 
-**Links**: [GitHub](link) | [Demo](link)
+![Platform](https://img.shields.io/badge/Platform-iOS%2015.0+-blue.svg) ![Language](https://img.shields.io/badge/Language-Swift%205.9-orange.svg) ![Framework](https://img.shields.io/badge/Framework-SwiftUI-green.svg) ![Charts](https://img.shields.io/badge/Charts-Swift%20Charts-purple.svg)
+
+**Description**: A comprehensive iOS expense tracking application that helps users monitor and manage personal finances through an intuitive interface. Features beautiful data visualizations, category-based expense organization, and detailed spending analytics.
+
+**Tech Stack**:
+- Swift 5.9, SwiftUI
+- SwiftData for local persistence
+- Swift Charts for data visualization
+- Combine for reactive programming
+- Custom UI components with animations
+
+**Key Features**:
+- Add and manage expenses with categories (Food, Transport, Shopping, Entertainment, Bills, Health, Education)
+- Beautiful home screen with curved header design and greeting messages
+- Real-time balance tracking (Income vs Expenses)
+- Advanced statistics dashboard with time period filters (Day, Week, Month, Year)
+- Interactive pie charts showing spending by category
+- Daily spending trend charts with smooth animations
+- Swipe-to-delete expense management
+- Category breakdown with percentages
+- Multi-currency support
+- Persistent storage across sessions
+- Comprehensive unit tests
+
+**Screenshots**:
+
+<p>
+<img width="200" alt="Splash Screen" src="https://github.com/user-attachments/assets/d0b3aef0-5b5d-493e-8f8f-8faacb121566" />
+<img width="200" alt="Home Screen" src="https://github.com/user-attachments/assets/c2100e99-8de5-468f-aa78-f0c4ef9511e5" />
+<img width="200" alt="Add Expense" src="https://github.com/user-attachments/assets/5ce03301-30eb-4aaf-8700-d3eee42f53e9" />
+<img width="200" alt="Statistics" src="https://github.com/user-attachments/assets/3063f598-401f-4bee-84a2-7e5a10f92c59" />
+</p>
+
+**Links**: [GitHub Repository](https://github.com/RajendranEshwaran/ExpansesTracker)
 
 ---
 
