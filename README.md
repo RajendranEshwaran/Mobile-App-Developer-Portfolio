@@ -103,15 +103,41 @@ I'm a passionate Mobile App & Game Developer specializing in creating engaging, 
 
 ---
 
-### [Project Name 3]
-**Description**: Brief description of your mobile app or game
-**Tech Stack**: React Native, TypeScript, Redux
-**Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+### UltraMobileApp
 
-**Links**: [GitHub](link) | [Live Demo](link)
+![Platform](https://img.shields.io/badge/Platform-iOS%2015.0+-blue.svg) ![Language](https://img.shields.io/badge/Language-Swift-orange.svg) ![Framework](https://img.shields.io/badge/Framework-SwiftUI-green.svg) ![Architecture](https://img.shields.io/badge/Pattern-Coordinator-red.svg)
+
+**Description**: A comprehensive mobile plan management application designed for prepaid wireless carrier customers. This iOS app allows users to monitor their data usage, manage their wireless plans, check balances, and view account information through a sleek, dark-themed interface.
+
+**Tech Stack**:
+- Swift, SwiftUI
+- Coordinator pattern for navigation
+- REST API integration
+- Custom reusable UI components
+- MVVM architecture pattern
+
+**Key Features**:
+- Real-time data usage monitoring and remaining data display
+- Plan management with current and next plan information
+- Wallet and balance tracking (INTL Credit, Roaming Credit)
+- Multiple balance types (Wallet, INTL Credit, INTL Roaming, uTalk)
+- International roaming credit management
+- Plan renewal date tracking and auto-renewal cost display
+- Custom tabbar navigation with Home, Plans, Balance, and Account sections
+- User profile management with account settings
+- Dark theme UI with custom card components
+- Expandable information cards with detailed breakdowns
+- Phone number formatting utilities
+- Comprehensive account settings with navigation
+
+**Screenshots**:
+
+<p>
+<img width="200" alt="Home Screen" src="https://github.com/user-attachments/assets/1d8b20c9-1b7b-46fc-8f87-d77a405ec057" />
+<img width="200" alt="Account Settings" src="https://github.com/user-attachments/assets/b0719f99-3a59-43d6-ba47-26051c7b4713" />
+</p>
+
+**Links**: [GitHub Repository](https://github.com/RajendranEshwaran/UltraMobileApp) | [Demo Video](https://github.com/user-attachments/assets/a70c0d33-48c8-432b-ae16-dd8b4268b2fb)
 
 ## Experience Highlights
 
