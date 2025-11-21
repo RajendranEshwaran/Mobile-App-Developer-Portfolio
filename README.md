@@ -26,15 +26,41 @@ I'm a passionate Mobile App & Game Developer specializing in creating engaging, 
 
 ## Featured Projects
 
-### [Project Name 1]
-**Description**: Brief description of your mobile app or game
-**Tech Stack**: Swift, SwiftUI, Firebase
-**Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+### FoodOnlineOrderDelivery
 
-**Links**: [GitHub](link) | [App Store](link) | [Google Play](link)
+![Platform](https://img.shields.io/badge/Platform-iOS%2015.0+-blue.svg) ![Language](https://img.shields.io/badge/Language-Swift%205.9-orange.svg) ![Framework](https://img.shields.io/badge/Framework-SwiftUI-green.svg) ![Architecture](https://img.shields.io/badge/Architecture-MVVM-red.svg)
+
+**Description**: A modern, feature-rich iOS food delivery application offering seamless user experience for browsing, ordering, and tracking food delivery from your favorite restaurants. Built with clean architecture and following iOS best practices.
+
+**Tech Stack**:
+- Swift 5.9, SwiftUI, Combine
+- SwiftData for persistence
+- MapKit for location tracking
+- MVVM + Coordinator pattern
+- Async/Await for asynchronous operations
+
+**Key Features**:
+- Complete authentication flow with OTP verification
+- Browse food by categories with advanced search
+- Restaurant listings with ratings and detailed menus
+- Shopping cart with real-time updates
+- Multiple payment methods support
+- Live order tracking with map integration
+- Address management with map pin-drop
+- Favorites and order history
+- Multi-language support
+- Comprehensive unit tests
+
+**Screenshots**:
+
+<p>
+<img width="200" alt="Onboarding" src="https://github.com/user-attachments/assets/e95a3d3f-49ce-43aa-b56d-52b7dfe48304" />
+<img width="200" alt="Home Screen" src="https://github.com/user-attachments/assets/64163bf3-cdcd-4699-8c03-d43c7e76c22e" />
+<img width="200" alt="Food Categories" src="https://github.com/user-attachments/assets/db4db8f9-3ec4-44a1-9883-f2563db6a4aa" />
+<img width="200" alt="Food Detail" src="https://github.com/user-attachments/assets/db93af02-82b2-4c49-b567-9ced8e4aac7a" />
+</p>
+
+**Links**: [GitHub Repository](https://github.com/RajendranEshwaran/FoodOnlineOrderDelivery) | [Demo Video](https://github.com/user-attachments/assets/3de1278e-0f96-4993-acd7-1a058adc17c6)
 
 ---
 
